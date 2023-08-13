@@ -1,0 +1,15 @@
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/bin/Debug/net7.0/OOP
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/bin/Debug/net7.0/OOP.deps.json
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/bin/Debug/net7.0/OOP.runtimeconfig.json
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/bin/Debug/net7.0/OOP.dll
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/bin/Debug/net7.0/OOP.pdb
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/OOP.csproj.AssemblyReference.cache
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/OOP.AssemblyInfoInputs.cache
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/OOP.AssemblyInfo.cs
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/OOP.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/OOP.dll
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/refint/OOP.dll
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/OOP.pdb
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/OOP.genruntimeconfig.cache
+/Users/mac/Desktop/GDipSA/02 OOP SelfLearning/OOP/OOP/obj/Debug/net7.0/ref/OOP.dll
